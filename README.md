@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevanshS05
 - 👀 I’m interested in Algorithms and Machine learning.
 - 🌱 I’m currently learning Data Structure/Algorithms and Machine Learning.
-- 💞️ I’m looking to collaborate on a small web dev project.
+- 💞️ I’m looking to collaborate.
 - 📫 You can reach me at devanshsbusiness@gmail.com
 
 <!---
